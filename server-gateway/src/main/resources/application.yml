@@ -1,0 +1,4 @@
+cyy:
+  auth:
+    excludePaths:
+      - /customer-api/customer/login/**
