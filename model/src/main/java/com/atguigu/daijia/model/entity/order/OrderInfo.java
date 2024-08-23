@@ -123,5 +123,4 @@ public class OrderInfo extends BaseEntity {
     @Schema(description = "订单备注信息")
 	@TableField("remark")
 	private String remark;
-
 }
